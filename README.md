@@ -1,6 +1,18 @@
 ## Olá, eu sou o João Marcos!
 
 
+# Minhas Imagens Interessantes
+
+![Código em Ação](https://via.placeholder.com/600x200.png/00ccff/ffffff?text=Coding+is+Art)
+
+![Inovação Tecnológica](https://via.placeholder.com/600x200.png/ff6600/ffffff?text=Innovation+Unleashed)
+
+![Universo de Dados](https://via.placeholder.com/600x200.png/6600ff/ffffff?text=Data+Universe)
+
+![Minha Jornada](https://via.placeholder.com/600x200.png/00ff99/ffffff?text=João's+Journey)
+
+
+
 <!-- Sobre mim -->
 <div align="center">
   <h2>About Me</h2>
