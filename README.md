@@ -1,4 +1,4 @@
-## Olá, estou o João Marcos
+## Olá, eu sou o João Marcos!
 
 
 <!-- Sobre mim -->
