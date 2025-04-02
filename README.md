@@ -61,7 +61,6 @@
 </div>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joao-Marcoss-2002&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- GIF Footer -->
 <div align="center">
