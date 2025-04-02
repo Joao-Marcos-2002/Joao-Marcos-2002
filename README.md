@@ -2,8 +2,8 @@
 
 <!-- Banner no topo -->
 <div align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Jo%C3%A3o+-+Software+Developer" alt="Banner" width="100%">
-  <h1 style="color: #00ccff; animation: fadeIn 2s;">Hi, I'm João! 👋</h1>
+  <img src="https://via.placeholder.com/1200x300.png?" alt="Banner" width="100%">
+  <h1 style="color: #00ccff; animation: fadeIn 2s;">I'm João Marcos!</h1>
   <p>Software Developer | UFMG Student | Passionate about Code & Innovation</p>
 </div>
 
