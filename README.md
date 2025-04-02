@@ -2,12 +2,6 @@
 
 
 
-
-![Código em Ação](https://source.unsplash.com/600x200/?coding)  
-*Explorando o mundo do desenvolvimento de software.*
-
-
-
 <!-- Sobre mim -->
 <div align="center">
   <h2>About Me</h2>
