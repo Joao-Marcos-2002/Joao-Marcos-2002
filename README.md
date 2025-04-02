@@ -60,21 +60,6 @@
   <p><em>Delivered two lectures on Artificial Intelligence in Business for C-level executives and innovation managers.</em></p>
 </div>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical" alt="Top Languages">
-</div>
-
-<!-- Contato -->
-<div align="center">
-  <h2>Connect With Me</h2>
-  <p>
-    <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-    <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"></a>
-  </p>
-</div>
 
 <!-- GIF Footer -->
 <div align="center">
