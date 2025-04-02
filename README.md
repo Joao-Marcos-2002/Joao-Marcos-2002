@@ -61,6 +61,12 @@
 </div>
 
 
+#### Responsive Card Theme
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joão-marcos-desenvolvedor/\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=joão-marcos-desenvolvedor/\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+
+
 <!-- GIF Footer -->
 <div align="center">
   <img src="https://media.giphy.com/media/3o7TKz2b3wyk65bD7a/giphy.gif" alt="Coding GIF" width="300">
